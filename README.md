@@ -5,7 +5,6 @@ site com todo o conteudo do curso: https://guilhermeonrails.github.io/manual-do-
 
 =======
 
-# Adopet
-Adopet é um projeto da Alura 
+# Github  
 Testando e aprendendo a usar o Git
 
